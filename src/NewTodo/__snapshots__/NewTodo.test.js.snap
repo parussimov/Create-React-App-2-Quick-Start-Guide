@@ -1,0 +1,27 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`NewTodo renders and matches our snapshot 1`] = `
+<div
+  className="NewTodo"
+>
+  <div
+    className="input-group"
+  >
+    <input
+      className="form-control"
+      onChange={[Function]}
+      placeholder="Input item name here..."
+      type="text"
+      value=""
+    />
+    <button
+      aria-label={null}
+      className="btn btn-primary"
+      onClick={[Function]}
+      type="button"
+    >
+      Add
+    </button>
+  </div>
+</div>
+`;

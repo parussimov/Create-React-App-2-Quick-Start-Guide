@@ -1,0 +1,42 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Todo renders and matches our snapshot 1`] = `
+<div
+  className="todo"
+>
+  Yo
+  <br />
+  <hr
+    className="hr"
+  />
+  <div
+    className="btn-group"
+    role="group"
+  >
+    <button
+      aria-label={null}
+      className="MarkDone btn btn-success"
+      onClick={[Function]}
+      type="button"
+    >
+      Mark as Done
+    </button>
+    <button
+      aria-label={null}
+      className="RemoveTodo btn btn-warning"
+      onClick={[Function]}
+      type="button"
+    >
+      Remove Me
+    </button>
+    <button
+      aria-label={null}
+      className="MarkCritical btn btn-danger"
+      onClick={[Function]}
+      type="button"
+    >
+      Mark as Critical
+    </button>
+  </div>
+</div>
+`;
