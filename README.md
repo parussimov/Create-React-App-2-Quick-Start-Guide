@@ -68,6 +68,8 @@ This section has moved here: https://facebook.github.io/create-react-app/docs/de
 This section has moved here: https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify
 # 
 
+# 
+
 <a href="https://www.packtpub.com/application-development/create-react-app-2-quick-start-guide?utm_source=github&utm_medium=repository&utm_campaign="><img src="" alt="" height="256px" align="right"></a>
 
 This is the code repository for [](https://www.packtpub.com/application-development/create-react-app-2-quick-start-guide?utm_source=github&utm_medium=repository&utm_campaign=), published by Packt.
@@ -118,7 +120,10 @@ We also provide a PDF file that has color images of the screenshots/diagrams use
 ## Get to Know the Author
 **Brandon Richey**
  is software engineer and React enthusiast who has written a large number of popular React tutorials. He has been doing professional and hobby programming projects spanning topics from healthcare, personal sites, recruiting, and game development for nearly 20 years! When not programming, Brandon enjoys spending time with his family, playing (and making) video games, and working on his drawings and paintings!
-## Another book by the authors
+
+
+
+## Other books by the authors
 [Phoenix Web Development](https://www.packtpub.com/web-development/phoenix-web-development?utm_source=github&utm_medium=repository&utm_campaign=9781787284197 )
 
 
