@@ -68,7 +68,7 @@ This section has moved here: https://facebook.github.io/create-react-app/docs/de
 This section has moved here: https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify
 # Create React App 2 Quick Start Guide	
 
-<a href="https://www.packtpub.com/application-development/create-react-app-2-quick-start-guide"><img src="Create React App 2 Quick Start Guide	" alt="Apache Spark Quick Start Guide" height="256px" align="right"></a>
+<a href="https://www.packtpub.com/application-development/create-react-app-2-quick-start-guide"><img src="https://www.packtpub.com/sites/default/files/B13064_1.png" alt="Create React App 2 Quick Start Guide" height="256px" align="right"></a>
 
 This is the code repository for [](https://www.packtpub.com/application-development/create-react-app-2-quick-start-guide?utm_source=github&utm_medium=repository&utm_campaign=), published by Packt.
 
