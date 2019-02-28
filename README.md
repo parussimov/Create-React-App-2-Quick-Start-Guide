@@ -70,7 +70,7 @@ This section has moved here: https://facebook.github.io/create-react-app/docs/tr
 
 <a href="https://www.packtpub.com/application-development/create-react-app-2-quick-start-guide"><img src="https://www.packtpub.com/sites/default/files/B13064_1.png" alt="Create React App 2 Quick Start Guide" height="256px" align="right"></a>
 
-This is the code repository for [](https://www.packtpub.com/application-development/create-react-app-2-quick-start-guide?utm_source=github&utm_medium=repository&utm_campaign=), published by Packt.
+This is the code repository for [Create React App 2 Quick Start Guide](https://www.packtpub.com/application-development/create-react-app-2-quick-start-guide), published by Packt.
 
 **Build React applications faster with Create React App**
 
