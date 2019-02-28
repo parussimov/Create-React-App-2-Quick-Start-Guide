@@ -75,14 +75,16 @@ This is the code repository for [Create React App 2 Quick Start Guide](https://w
 **Build React applications faster with Create React App**
 
 ## What is this book about?
+If you're a power user and you aren’t happy always reusing default configurations, from previous applications with each new application, then all you need is Create React App (CRA), a tool in the React ecosystem designed to help you create boilerplate code for building a web frontend.
+
+
+This book covers the following exciting features:
 * Become familiar with React by building applications with Create React App
 * Make your frontend development hassle free
 * Create interactive UIs exploring the latest features of CRA 2
 * Build modern, React projects with, SASS,and progressive web applications
 * Develop proxy backend servers and simulate interaction with a full backend
 * Keep your application fully tested and maintain confidence in your project
-
-This book covers the following exciting features:
 
 
 If you feel this book is for you, get your [copy](https://www.amazon.com/dp/178995276X) today!
